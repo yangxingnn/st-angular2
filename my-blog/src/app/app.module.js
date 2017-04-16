@@ -5,7 +5,7 @@
         declarations:[app.AppComponent],
         bootstrap:[app.AppComponent]
     })
-    .class({
+    .Class({
         constructor:function(){}
     });
 })(window.app||(window.app = {}));
